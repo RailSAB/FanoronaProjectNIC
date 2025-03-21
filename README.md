@@ -1,0 +1,3 @@
+- main.py contains code for game, written using pygame. it's an a draft, needs to be modified
+- main_note.ipynb contains all code for game logic, neural and random agents, Genetic Algorithm and Genetic Programming
+- What's left is to improve the game and train the HH, which means running this code for a week and a half)...
