@@ -1,0 +1,6 @@
+- game_op.py contains code for game, written using pygame. it's an a draft, needs to be modified
+- main_note.ipynb contains all code for game logic, neural and random agents, Genetic Algorithm and Genetic Programming
+- statistics.ipynb - contains statistics og fitnes among generations
+- test_note.ipynb - just a draft
+- weights folder - weights of models used and derrived in GA 
+- statistics folder - statistics gain through GA
